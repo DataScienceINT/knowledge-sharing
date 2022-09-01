@@ -7,11 +7,18 @@ If possible, please include a short description/key takeaway(s).
 
 ## General Data Science
 
+- [Intro to modern statistics](https://openintro-ims.netlify.app/)
+
 ## Natural Language Processing
 
 ### Models
 
-### Papers
+- [SAPBERT](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext). HuggingFace model for biomedical entities representation.
+- [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract)
+
+### Papers/Books
+
+- [Natural Language Processing with Transformers](https://github.com/nlp-with-transformers/notebooks)
 
 ### Interesting articles
 
@@ -20,6 +27,15 @@ If possible, please include a short description/key takeaway(s).
 ## Graph ML
 
 ## Bayesian
+
+## Neural networks
+
+-[Understanding LSTMs](https://medium.com/@mumbaiyachori/understanding-lstms-6d50b10f2a37)
+
+## Software/Packages/Tools
+
+- [Installing PyTorch Geometric on Mac M1 with Accelerated GPU Support](https://medium.com/@jgbrasier/installing-pytorch-geometric-on-mac-m1-with-accelerated-gpu-support-2e7118535c50). Building an environment for graph machine learning on Macbook with M1.
+- [Foam](https://foambubble.github.io/foam/). Knowledge management and sharing tool.
 
 ## Miscellaneous
 For interesting information that is not necessarily DS-related.
