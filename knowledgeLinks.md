@@ -2,12 +2,13 @@
 
 **Please add links in the corresponding section or a new section if you find something interesting.**
 
-These can be papers, blog posts, podcasts, models, videos, courses, books, etc.
+These can be papers, blog posts, podcasts, models, videos, courses, books, etc. Demos developed within the HU (ex: markdown files demonstrating a packages) should also be included.
 If possible, please include a short description/key takeaway(s).
 
 ## General Data Science
 
 - [Intro to modern statistics](https://openintro-ims.netlify.app/)
+- [The Gradient](https://thegradient.pub/). Digital magazine about trends in AI/machine learning, founded by Stanford Artificial Intelligence Laboratory. A lot of essay-style articles (a few are linked below). 
 
 ## Natural Language Processing
 
@@ -23,6 +24,7 @@ If possible, please include a short description/key takeaway(s).
 ### Interesting articles
 
 - [Designing a GPT-3 for science](https://future.com/how-to-build-gpt-3-for-science). Key TAs: death to PDF, articles are a substrate for information combination.
+- [Lessons from the GPT-4chan controversy](https://thegradient.pub/gpt-4chan-lessons/). Article about ethics in AI. Interesting TA: possibility to "gate" potentially harmful models so that they are only accessible to researchers.
 
 ## Graph ML
 
