@@ -9,6 +9,7 @@ If possible, please include a short description/key takeaway(s).
 
 - [Intro to modern statistics](https://openintro-ims.netlify.app/)
 - [The Gradient](https://thegradient.pub/). Digital magazine about trends in AI/machine learning, founded by Stanford Artificial Intelligence Laboratory. A lot of essay-style articles (a few are linked below). 
+- [Discovering novel algorithms with AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor). Discovery of novel algorithms by AI. Broad possibilities for application in data science/computer science in general. Link to the GitHub repo and article in the article.
 
 ## Natural Language Processing
 
@@ -25,6 +26,9 @@ If possible, please include a short description/key takeaway(s).
 
 - [Designing a GPT-3 for science](https://future.com/how-to-build-gpt-3-for-science). Key TAs: death to PDF, articles are a substrate for information combination.
 - [Lessons from the GPT-4chan controversy](https://thegradient.pub/gpt-4chan-lessons/). Article about ethics in AI. Interesting TA: possibility to "gate" potentially harmful models so that they are only accessible to researchers.
+
+### Talks
+- [NLP Summit](https://www.nlpsummit.org/) A collection of talks about NLP, particularly focused on biomedical/healthcare. Look into tab "Watch past summits".
 
 ## Graph ML
 
