@@ -10,6 +10,7 @@ If possible, please include a short description/key takeaway(s).
 - [Intro to modern statistics](https://openintro-ims.netlify.app/)
 - [The Gradient](https://thegradient.pub/). Digital magazine about trends in AI/machine learning, founded by Stanford Artificial Intelligence Laboratory. A lot of essay-style articles (a few are linked below). 
 - [Discovering novel algorithms with AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor). Discovery of novel algorithms by AI. Broad possibilities for application in data science/computer science in general. Link to the GitHub repo and article in the article.
+-[Explainpaper](https://www.explainpaper.com/). Upload a paper, highlight confusing terms and get an explanation returned (provided by with GPT-3 model).
 
 ## Natural Language Processing
 
