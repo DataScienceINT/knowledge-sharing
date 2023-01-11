@@ -5,12 +5,17 @@
 These can be papers, blog posts, podcasts, models, videos, courses, books, etc. Demos developed within the HU (ex: markdown files demonstrating a packages) should also be included.
 If possible, please include a short description/key takeaway(s).
 
-## General Data Science
-
+## Science
+- [The Palindrome](https://thepalindrome.substack.com/) Stories about how mathematics impact science and technology.
 - [Intro to modern statistics](https://openintro-ims.netlify.app/)
+
+
+## General Data Science / Machine Learning
+
 - [The Gradient](https://thegradient.pub/). Digital magazine about trends in AI/machine learning, founded by Stanford Artificial Intelligence Laboratory. A lot of essay-style articles (a few are linked below). 
 - [Discovering novel algorithms with AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor). Discovery of novel algorithms by AI. Broad possibilities for application in data science/computer science in general. Link to the GitHub repo and article in the article.
 -[Explainpaper](https://www.explainpaper.com/). Upload a paper, highlight confusing terms and get an explanation returned (provided by with GPT-3 model).
+-[Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) A website illustrating a variety of ML concepts, a bit "back of the envelop" drawing style.
 
 ## Natural Language Processing
 
