@@ -19,6 +19,8 @@ If possible, please include a short description/key takeaway(s).
 
 ## Natural Language Processing
 
+- [Creating knowledge graphs from unstructured text](https://faircookbook.elixir-europe.org/content/recipes/interoperability/creating-knowledge-graph-from-unstructured-text.html). FAIR cookbook recipe with all steps (and tools) from literature to knowledge graph.
+
 ### Models
 
 - [SAPBERT](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext). HuggingFace model for biomedical entities representation.
