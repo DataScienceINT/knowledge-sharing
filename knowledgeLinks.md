@@ -16,16 +16,29 @@ If possible, please include a short description/key takeaway(s).
 - [Discovering novel algorithms with AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor). Discovery of novel algorithms by AI. Broad possibilities for application in data science/computer science in general. Link to the GitHub repo and article in the article.
 - [Explainpaper](https://www.explainpaper.com/). Upload a paper, highlight confusing terms and get an explanation returned (provided by with GPT-3 model).
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) A website illustrating a variety of ML concepts, a bit "back of the envelop" drawing style.
+- [Polars](https://github.com/pola-rs/polars/tree/master/py-polars). New library claimed to be much faster than Pandas for dataframes in Python.
+- [New machine setup](https://github.com/RamiKrispin/awesome-ds-setting). Tutorial on how to set up a new machine for Data Science. Based on MacOS.
+- [WebR](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/). R package to run R code directly in browser from a website.
+- [Rang](http://blog.schochastics.net/post/rang-make-ancient-r-code-run-again/) R package to help reproducibility of old code in R.
 
 ## Natural Language Processing
 
 - [Creating knowledge graphs from unstructured text](https://faircookbook.elixir-europe.org/content/recipes/interoperability/creating-knowledge-graph-from-unstructured-text.html). FAIR cookbook recipe with all steps (and tools) from literature to knowledge graph.
+
+- [Prodigy Open AI recipes](https://github.com/explosion/prodigy-openai-recipes). Recipes to obtain high quality dataset from LLM and small annotation effort.
+
+- [Understanding LLM: A reading list](https://sebastianraschka.com/blog/2023/llm-reading-list.html). Reading list of founding papers for Transformers-based language models.
 
 ### Models
 
 - [SAPBERT](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext). HuggingFace model for biomedical entities representation.
 - [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract)
  [REBEL](https://github.com/Babelscape/rebel). Relationship extraction model. HuggingFace model, pluggable on spaCy. Ranked 3rd on relationship extraction the Adverse Drug Events dataset.
+- [BioGPT](https://github.com/microsoft/BioGPT). Pre-trained on biomedical literature, claims to outperform SoT models on most biomedical NLP tasks.
+
+### Corpora
+
+- [EuropePMC](https://www.biorxiv.org/content/10.1101/2023.02.20.529292v1.full.pdf+html). Annotated full text corpus for gene/proteins, diseases and organisms. Link is to the BioarXiv paper, with details on how to access and reuse the resource.
 
 ### Papers/Books
 
