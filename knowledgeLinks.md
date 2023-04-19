@@ -17,9 +17,11 @@ If possible, please include a short description/key takeaway(s).
 - [Explainpaper](https://www.explainpaper.com/). Upload a paper, highlight confusing terms and get an explanation returned (provided by with GPT-3 model).
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) A website illustrating a variety of ML concepts, a bit "back of the envelop" drawing style.
 - [Polars](https://github.com/pola-rs/polars/tree/master/py-polars). New library claimed to be much faster than Pandas for dataframes in Python.
+- [RPolars](https://rpolars.github.io/articles/rpolars.html). The above library now also for R. Again, claims to be much faster than all tidverse tool, but I find the grammar of it quite repulsive TBH.
 - [New machine setup](https://github.com/RamiKrispin/awesome-ds-setting). Tutorial on how to set up a new machine for Data Science. Based on MacOS.
 - [WebR](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/). R package to run R code directly in browser from a website.
 - [Rang](http://blog.schochastics.net/post/rang-make-ancient-r-code-run-again/) R package to help reproducibility of old code in R.
+- [Equality of odds](https://mlu-explain.github.io/equality-of-odds/). One technique to prevent bias in ML.
 
 ## Natural Language Processing
 
@@ -29,12 +31,15 @@ If possible, please include a short description/key takeaway(s).
 
 - [Understanding LLM: A reading list](https://sebastianraschka.com/blog/2023/llm-reading-list.html). Reading list of founding papers for Transformers-based language models.
 
+- [LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html). Very interesting post with tips for prompt engineering, evaluation and optimization, model finetuning, and best practices for LLM use in general.
+
 ### Models
 
 - [SAPBERT](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext). HuggingFace model for biomedical entities representation.
 - [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract)
- [REBEL](https://github.com/Babelscape/rebel). Relationship extraction model. HuggingFace model, pluggable on spaCy. Ranked 3rd on relationship extraction the Adverse Drug Events dataset.
+- [REBEL](https://github.com/Babelscape/rebel). Relationship extraction model. HuggingFace model, pluggable on spaCy. Ranked 3rd on relationship extraction the Adverse Drug Events dataset.
 - [BioGPT](https://github.com/microsoft/BioGPT). Pre-trained on biomedical literature, claims to outperform SoT models on most biomedical NLP tasks.
+- [Efficient Transformers](https://developers.reinfer.io/blog/2022/04/11/efficient-transformers-part2). How to make LLM more efficient. Covers knowledge distillation and fine-tuning.
 
 ### Corpora
 
