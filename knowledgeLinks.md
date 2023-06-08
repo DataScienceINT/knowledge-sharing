@@ -60,6 +60,7 @@ If possible, please include a short description/key takeaway(s).
 ## Neural networks
 
 - [Understanding LSTMs](https://medium.com/@mumbaiyachori/understanding-lstms-6d50b10f2a37)
+-[What are embeddings?](https://vickiboykis.com/what_are_embeddings/) A deep (82 pages!) dive into embeddings and what they are on a conceptual, mathematical and engineering level.
 
 ## Software/Packages/Tools
 
@@ -73,7 +74,8 @@ If possible, please include a short description/key takeaway(s).
 
 ### Python packages
 - [Polars](https://github.com/pola-rs/polars/tree/master/py-polars). New library claimed to be much faster than Pandas for dataframes in Python.
-- [FAISS](https://faiss.ai/) A library for efficient similarity search between vectors. What ToxTrack uses. Written in C++ but Python wrappers.
+- [FAISS](https://faiss.ai/) A library for efficient similarity search between vectors. Written in C++ but Python wrappers.
+- [SafeTensors](https://github.com/huggingface/safetensors). New (as of June 2023) default in HuggingFace to save/load models, as it has improved security (vs Pickle).
 
 ### R packages
 - [RPolars](https://rpolars.github.io/articles/rpolars.html). The above library now also for R. Again, claims to be much faster than all tidverse tool, but I find the grammar of it quite repulsive TBH.
