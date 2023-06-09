@@ -9,6 +9,8 @@ If possible, please include a short description/key takeaway(s).
 
 - [The Palindrome](https://thepalindrome.substack.com/) Stories about how mathematics impact science and technology.
 - [Intro to modern statistics](https://openintro-ims.netlify.app/)
+- [Consensus.app](https://consensus.app/search/) lets you ask a question and the app finds papers that answer yes or no to this question.
+- [Connected papers](https://www.connectedpapers.com/) Finds papers that are similar to each other and presents them in a graph. (these papers can site each other but don't have too)
 
 
 ## General Data Science / Machine Learning
