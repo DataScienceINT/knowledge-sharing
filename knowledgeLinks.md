@@ -20,7 +20,8 @@ If possible, please include a short description/key takeaway(s).
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) A website illustrating a variety of ML concepts, a bit "back of the envelop" drawing style.
 - [New machine setup](https://github.com/RamiKrispin/awesome-ds-setting). Tutorial on how to set up a new machine for Data Science. Based on MacOS.
 - [Equality of odds](https://mlu-explain.github.io/equality-of-odds/). One technique to prevent bias in ML.
-
+- [Bruno Rodrigues blog](https://www.brodrigues.co/blog/). Nice technical blog, more on the software engineering side. Posts include a 4-parter on Nix for reproducible science.
+- [Telling stories with data](https://tellingstorieswithdata.com/). Haven't read it all, but seems like a nice book/reference for data analysis, reprodicibility and communication.
 
 ## Natural Language Processing
 
@@ -66,9 +67,10 @@ If possible, please include a short description/key takeaway(s).
 
 ## Software/Packages/Tools
 
-### Technical tutorial
+### Technical tutorials
 
 - [Installing PyTorch Geometric on Mac M1 with Accelerated GPU Support](https://medium.com/@jgbrasier/installing-pytorch-geometric-on-mac-m1-with-accelerated-gpu-support-2e7118535c50). Building an environment for graph machine learning on Macbook with M1.
+- [Setting Python Development Environment with VScode and Docker](https://github.com/RamiKrispin/vscode-python?#readme). 
 
 ### Productivity tools
 - [Foam](https://foambubble.github.io/foam/). Knowledge management and sharing tool.
@@ -83,6 +85,7 @@ If possible, please include a short description/key takeaway(s).
 - [RPolars](https://rpolars.github.io/articles/rpolars.html). The above library now also for R. Again, claims to be much faster than all tidverse tool, but I find the grammar of it quite repulsive TBH.
 - [WebR](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/). R package to run R code directly in browser from a website.
 - [Rang](http://blog.schochastics.net/post/rang-make-ancient-r-code-run-again/) R package to help reproducibility of old code in R.
+- [messydates](https://globalgov.github.io/messydates/). A package to make date formats tidy.
 
 
 ## Miscellaneous
