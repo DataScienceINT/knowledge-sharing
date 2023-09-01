@@ -21,7 +21,7 @@ If possible, please include a short description/key takeaway(s).
 - [New machine setup](https://github.com/RamiKrispin/awesome-ds-setting). Tutorial on how to set up a new machine for Data Science. Based on MacOS.
 - [Equality of odds](https://mlu-explain.github.io/equality-of-odds/). One technique to prevent bias in ML.
 - [Bruno Rodrigues blog](https://www.brodrigues.co/blog/). Nice technical blog, more on the software engineering side. Posts include a 4-parter on Nix for reproducible science.
-- [Telling stories with data](https://tellingstorieswithdata.com/). Haven't read it all, but seems like a nice book/reference for data analysis, reprodicibility and communication.
+- [Telling stories with data](https://tellingstorieswithdata.com/). Haven't read it all, but seems like a nice book/reference for data analysis, reproducibility and communication.
 
 ## Natural Language Processing
 
@@ -80,6 +80,7 @@ If possible, please include a short description/key takeaway(s).
 - [Polars](https://github.com/pola-rs/polars/tree/master/py-polars). New library claimed to be much faster than Pandas for dataframes in Python.
 - [FAISS](https://faiss.ai/) A library for efficient similarity search between vectors. Written in C++ but Python wrappers.
 - [SafeTensors](https://github.com/huggingface/safetensors). New (as of June 2023) default in HuggingFace to save/load models, as it has improved security (vs Pickle).
+- [Guardrails AI](https://docs.getguardrails.ai/). Python package to verify structure  and quality of LLM outputs. Can be useful to check for bias or type errors, but not a resource to verify facts.
 
 ### R packages
 - [RPolars](https://rpolars.github.io/articles/rpolars.html). The above library now also for R. Again, claims to be much faster than all tidverse tool, but I find the grammar of it quite repulsive TBH.
@@ -92,4 +93,5 @@ If possible, please include a short description/key takeaway(s).
 For interesting information that is not necessarily DS-related.
 
 - [Bioicons](https://bioicons.com/) A free library of science icons and logos (SVG), that goes beyond your standard PPT icons.
+- [Designing color keys](https://blog.datawrapper.de/color-keys-for-data-visualizations/). Blogpost explaining how to create easy-to-read color keys (=legends) for your charts).
 
