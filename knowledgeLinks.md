@@ -22,6 +22,8 @@ If possible, please include a short description/key takeaway(s).
 - [Equality of odds](https://mlu-explain.github.io/equality-of-odds/). One technique to prevent bias in ML.
 - [Bruno Rodrigues blog](https://www.brodrigues.co/blog/). Nice technical blog, more on the software engineering side. Posts include a 4-parter on Nix for reproducible science.
 - [Telling stories with data](https://tellingstorieswithdata.com/). Haven't read it all, but seems like a nice book/reference for data analysis, reproducibility and communication.
+- [ML papers explained](https://github.com/dair-ai/ML-Papers-Explained). Links to a collection of Medium posts to explain ML papers/concepts, e.g. Transformers and all the LLM zoo, CNNs, vision models, etc.
+- [Four kinds of optimization](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html). A short dive into how to optimize the running time of your programs. Explores trade-offs of 4 solutions: use a better algorithm, a better data structure, a lower-level programming language (e.g. rewrite some Python in Rust) or accept a less precise solution.
 
 ## Natural Language Processing
 
@@ -29,6 +31,7 @@ If possible, please include a short description/key takeaway(s).
 - [Prodigy Open AI recipes](https://github.com/explosion/prodigy-openai-recipes). Recipes to obtain high quality dataset from LLM and small annotation effort.
 - [Understanding LLM: A reading list](https://sebastianraschka.com/blog/2023/llm-reading-list.html). Reading list of founding papers for Transformers-based language models.
 - [LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html). Very interesting post with tips for prompt engineering, evaluation and optimization, model finetuning, and best practices for LLM use in general.
+- [Impact of LLMs on scientific discovery](https://arxiv.org/pdf/2311.07361.pdf). A Microsoft Research paper investigating the performance of GPT-4 for various scientific tasks (drug discovery, materials design, molecular simulations, etc.). 230 pages...
 
 ### Models
 
@@ -90,8 +93,9 @@ If possible, please include a short description/key takeaway(s).
 
 
 ## Miscellaneous
-For interesting information that is not necessarily DS-related.
+For interesting information that is not necessarily DS-related. Mostly dataviz TBH.
 
 - [Bioicons](https://bioicons.com/) A free library of science icons and logos (SVG), that goes beyond your standard PPT icons.
 - [Designing color keys](https://blog.datawrapper.de/color-keys-for-data-visualizations/). Blogpost explaining how to create easy-to-read color keys (=legends) for your charts).
+- [Friends don't let friends](https://github.com/cxli233/FriendsDontLetFriends). An opinionated guide on common mistakes in the use of (scientific) graphs.
 
