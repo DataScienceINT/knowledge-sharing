@@ -32,6 +32,7 @@ If possible, please include a short description/key takeaway(s).
 - [Understanding LLM: A reading list](https://sebastianraschka.com/blog/2023/llm-reading-list.html). Reading list of founding papers for Transformers-based language models.
 - [LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html). Very interesting post with tips for prompt engineering, evaluation and optimization, model finetuning, and best practices for LLM use in general.
 - [Impact of LLMs on scientific discovery](https://arxiv.org/pdf/2311.07361.pdf). A Microsoft Research paper investigating the performance of GPT-4 for various scientific tasks (drug discovery, materials design, molecular simulations, etc.). 230 pages...
+- [Tackling hallucinations ion LLMs](https://magazine.sebastianraschka.com/p/research-papers-in-november-2023). A blog post with multiple links to research papers detailing how to deal with (and reduce) LLMs generating factually wrong information.
 
 ### Models
 
