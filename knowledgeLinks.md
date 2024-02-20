@@ -34,6 +34,11 @@ If possible, please include a short description/key takeaway(s).
 - [Impact of LLMs on scientific discovery](https://arxiv.org/pdf/2311.07361.pdf). A Microsoft Research paper investigating the performance of GPT-4 for various scientific tasks (drug discovery, materials design, molecular simulations, etc.). 230 pages...
 - [Tackling hallucinations ion LLMs](https://magazine.sebastianraschka.com/p/research-papers-in-november-2023). A blog post with multiple links to research papers detailing how to deal with (and reduce) LLMs generating factually wrong information.
 
+### RAG
+- [paperQA](https://github.com/whitead/paper-qa/). Minimal package to do QA on PDFs.
+- [LlamaIndex](https://docs.llamaindex.ai/en/stable/). Data framework for LLM applications.
+- [Tips & Tricks for RAG](https://www.youtube.com/watch?app=desktop&v=ZP1F9z-S7T0&feature=youtu.be). From LlamaIndex, YouTube video for putting RAG in production.
+
 ### Models
 
 - [SAPBERT](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext). HuggingFace model for biomedical entities representation.
