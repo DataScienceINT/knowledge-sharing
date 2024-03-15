@@ -39,6 +39,7 @@ If possible, please include a short description/key takeaway(s).
 - [LlamaIndex](https://docs.llamaindex.ai/en/stable/). Data framework for LLM applications.
 - [LlamaParse](https://www.llamaindex.ai/blog/launching-the-first-genai-native-document-parsing-platform). Connected to previous link - with json parsing capabilities for tables, text (and images?).
 - [Tips & Tricks for RAG](https://www.youtube.com/watch?app=desktop&v=ZP1F9z-S7T0&feature=youtu.be). From LlamaIndex, YouTube video for putting RAG in production.
+- [Real time RAG chatbot](https://blog.streamlit.io/build-a-real-time-rag-chatbot-google-drive-sharepoint/). Blogpost on building RAG with "real time" updates of the knowledge base.
 
 ### Models
 
