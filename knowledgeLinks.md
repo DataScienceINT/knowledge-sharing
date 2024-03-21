@@ -48,6 +48,7 @@ If possible, please include a short description/key takeaway(s).
 - [REBEL](https://github.com/Babelscape/rebel). Relationship extraction model. HuggingFace model, pluggable on spaCy. Ranked 3rd on relationship extraction the Adverse Drug Events dataset.
 - [BioGPT](https://github.com/microsoft/BioGPT). Pre-trained on biomedical literature, claims to outperform SoT models on most biomedical NLP tasks.
 - [Efficient Transformers](https://developers.reinfer.io/blog/2022/04/11/efficient-transformers-part2). How to make LLM more efficient. Covers knowledge distillation and fine-tuning.
+- [PKPDAI](https://github.com/PKPDAI). Suite of models specialized for PK modeling. Document classifier and NER.
 
 ### Corpora
 
