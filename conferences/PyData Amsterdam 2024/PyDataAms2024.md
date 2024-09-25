@@ -29,7 +29,7 @@ Didn't actually attend that one, but the material could be interesting.
 ## Sweet Summer Child Score - Laura Summers
 
 No one metric that can apply to everything to evaluate fairness.
-Library needs to be revisited for LLMs (created in 2018) - though mostly applicable.
+Library still needs to be revisited for LLMs (created in 2018) - though mostly applicable.
 - [Material](https://summerscope.github.io/slides/summerchild-workshop/)
 - [Another link to a practical ethics course](https://ethics.fast.ai/)
 A cool workshop on identifying risk, ranking them, getting possible mitigation for them.
@@ -41,10 +41,10 @@ A cool workshop on identifying risk, ranking them, getting possible mitigation f
 Multimodal retrieval modals (ex:ColPali)
 Zero shot detection/classification: for any category (you can enter your own category)
 Multimodal RAG: ColPali(R) -> qwen2-VL (R)
-Fine tune/quantize if necessary
-Vision Language Models: HF has text-generation-inference
-Quantisation: BitsAndBytesConfig
-Parameters efficient fine tuning (PEFT)
+Fine tune/quantize if necessary.
+Vision Language Models: HF has text-generation-inference.
+Quantisation: BitsAndBytesConfig.
+Parameters efficient fine tuning (PEFT).
 Smol-vision: personal project.
 
 ### Run the benchmark they said, it will be fun they said - Vincent Warmerdam
@@ -65,7 +65,7 @@ Implemented correctness (error raised early, eg types).
 
 More of a personal tale than really technical, on tips to contribute to OS projects.
 A good starting point is documentation.
-Narwhals: Python library that buuld a compatibility layer so that your dataframes are library-agnostic.
+[Narwhals](https://pypi.org/project/narwhals/): Python library that build a compatibility layer so that your dataframes are library-agnostic.
 
 ### GenAI Beyond Chat with RAG, Knowledge Graphs and Python - Martin O'Hanlon
 
@@ -83,7 +83,7 @@ Function of interest: LLM graph transformer (langchain) also used [here](https:/
 Data sharing is often the bottleneck (sounds familiar? :/).
 Sharing Roseman labs architecture: multi-party computation.
 It does not involved a trusted third party for storage.
-[crandas](https://docs.rosemanlabs.com/latest/index.html): Pandas for encrypted data. You can join datasets without decrypting them, possibly run aggregates. Analysis always needs to be approaved using a private key.
+[crandas](https://docs.rosemanlabs.com/latest/index.html): Pandas for encrypted data. You can join datasets without decrypting them, possibly run aggregates. Analysis always needs to be approved using a private key (e.g., not by the analyst, but by the data owner).
 
 ### Applied NLP in the age of Generative AI - Ines Montani (keynote)
 
@@ -92,7 +92,7 @@ Replace LLM with distilled task-specific components ==> more modular , small and
 For that you need a human in the loop: use llm to annotate for a specific task, use only the output to train a specific component (transfer learning). Then evaluate against baseline (llm?)
 Refactoring code AND data
 Evaluation of your model is similar to unit testing of your code, should be best practice
-RIE: alternative to RAG (see slide)
+RIE (Retrieval via Information Extraction): alternative to RAG (see slide)
 [Window knocking machine test](https://ines.io/blog/window-knocking-machine-test/): when you automate a task previously performed by human, are you building a knocker upper or an alarm clock? Think beyond chat bots
 Chatting with data could replace other approaches but it depends on the scenario. One misconception is that you need to add many layers of abstraction - you still need product decisions.
 
