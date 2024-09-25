@@ -33,6 +33,8 @@ If possible, please include a short description/key takeaway(s).
 - [LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html). Very interesting post with tips for prompt engineering, evaluation and optimization, model finetuning, and best practices for LLM use in general.
 - [Impact of LLMs on scientific discovery](https://arxiv.org/pdf/2311.07361.pdf). A Microsoft Research paper investigating the performance of GPT-4 for various scientific tasks (drug discovery, materials design, molecular simulations, etc.). 230 pages...
 - [Tackling hallucinations ion LLMs](https://magazine.sebastianraschka.com/p/research-papers-in-november-2023). A blog post with multiple links to research papers detailing how to deal with (and reduce) LLMs generating factually wrong information.
+- [The Pipe](https://github.com/emcf/thepipe): Python package that does markdown extraction from a variety of formats, including PDFs and Word.
+
 
 ### RAG
 - [paperQA](https://github.com/whitead/paper-qa/). Minimal package to do QA on PDFs.
@@ -41,6 +43,9 @@ If possible, please include a short description/key takeaway(s).
 - [Tips & Tricks for RAG](https://www.youtube.com/watch?app=desktop&v=ZP1F9z-S7T0&feature=youtu.be). From LlamaIndex, YouTube video for putting RAG in production.
 - [Real time RAG chatbot](https://blog.streamlit.io/build-a-real-time-rag-chatbot-google-drive-sharepoint/). Blogpost on building RAG with "real time" updates of the knowledge base.
 - [Production RAG](https://docs.google.com/presentation/d/1bPv3lrayGe4LOn2v_Go_n7o5xDrGvmfLAQ83Q0EI8GY/edit#slide=id.p). Presentation on choices to make while building a RAG (also on evaluation, deployment, budget).
+- [Embeddings quantization](https://huggingface.co/blog/embedding-quantization). Cost and latency reductions thanks to embeddings quantization.
+- [Retrieval Augmented fine tuning](https://www.youtube.com/watch?app=desktop&v=sqPckknlgDc). Approach to fine tune LLMs to retrieve relevant documents.
+- [Rerankers](https://www.answer.ai/posts/2024-09-16-rerankers.html): Low-dependency python package to unify interface to most common rerankers models.
 
 ### Models
 
