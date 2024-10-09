@@ -20,13 +20,13 @@ Really fun interactive workshop, where we engineered prompts to try and get a pa
 Advanced web scraping techniques, including overcoming anti-bot measures (legally), etc.
 Wasn't really fond of this one, lots of dependencies and not very clear explanations. If you are interested, here is the [repo](https://github.com/fabienvauchelles/scraping-workshop).
 
-## Data flow with Prefect - Andy Hill
+### Data flow with Prefect - Andy Hill
 
 Didn't actually attend that one, but the material could be interesting.
 
 - [repo](https://github.com/Cadarn/PyData-Prefect-Workshop)
 
-## Sweet Summer Child Score - Laura Summers
+### Sweet Summer Child Score - Laura Summers
 
 No one metric that can apply to everything to evaluate fairness.
 Library still needs to be revisited for LLMs (created in 2018) - though mostly applicable.
